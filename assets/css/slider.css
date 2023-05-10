@@ -1,0 +1,20 @@
+	.slideshow {
+		margin: 0 -500px 25px -500px;
+	}
+  
+  .slide {
+	margin-right: 4vw;
+	text-align: center;
+	height: 15vh;
+	border-radius: 6px;
+	color: #fff;
+	font-family: 'Helvetica Neue', helvetica, arial;
+	font-size: 24px;
+  }
+ 
+
+  @media (max-width: 991px) {
+	.slide {
+		height: 25vh;
+	}
+  }
