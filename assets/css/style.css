@@ -393,7 +393,7 @@ h6 {
 
 #hero img {
   height: 80%;
-  margin: 10% 0 5% 10%;
+  margin: 12% 0px -5% 10%;
 }
 
 #hero h1 {
@@ -1755,4 +1755,10 @@ section {
     padding-top: 4px;
   }
 }
-
+.helpdesk {
+  border:1px solid #ccc; padding:10px; color: white;
+}
+.helpdesk:hover{ 
+  background-color: #fff;
+  color: #37517E;
+}
